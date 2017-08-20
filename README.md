@@ -82,3 +82,8 @@ To git@github.com:darthvaldr/.dotfiles.git
 Branch master set up to track remote branch master from origin.
 ```
 
+## References
+
+### credits
+[Nicola Paoluci](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
+[StreakyCobra/HackerNews](https://news.ycombinator.com/item?id=11071754)
