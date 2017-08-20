@@ -1,0 +1,16 @@
+! ---------------------------------------------------------------------------------
+! ROFI Color theme - modified https://davedavenport.github.io/rofi/p05-Themes.html
+! ---------------------------------------------------------------------------------
+
+rofi.color-enabled: true
+rofi.color-window: #010101, #2f343f, #999999
+rofi.color-normal: #000000, #819396, #000000, #2f343f, #ffffff
+rofi.color-active: #000000, #008ed4, #000000, #2f343f, #008ed4
+rofi.color-urgent: #000000, #da4281, #000000, #003642, #da4281
+
+rofi.font: Liberation Mono 12
+rofi.bw: 2
+rofi.padding: 5
+rofi.terminal: terminator
+rofi.hide-scrollbar: true
+rofi.fuzzy: true
