@@ -1,5 +1,9 @@
 # .dotfiles
 
+## **TODO**
+1. check all the files that need to be part of this repo are here
+2. TEST RUN getting your terminal back up to exactly how you configured it with these steps. i.e. check this shit actually works rather than coming back to it (i.e. me, now) and find shits missing and the process is broken. sort it out bro.
+
 ## setup your $HOME
 
 run this in your terminal to setup a repo to push your dotfiles to. it uses a 'config' alias to keep things nice & tidy.
